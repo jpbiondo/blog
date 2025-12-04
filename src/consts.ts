@@ -1,11 +1,11 @@
 import type { IconMap, SocialLink, Site } from '@/types'
 
+//TODO: configurar esto
 export const SITE: Site = {
-  title: 'astro-erudite',
-  description:
-    'astro-erudite is a opinionated, unstyled blogging template—built with Astro, Tailwind, and shadcn/ui.',
+  title: 'jpblxnd',
+  description: 'Johnny The man',
   href: 'https://astro-erudite.vercel.app',
-  author: 'jktrn',
+  author: 'jpblxnd',
   locale: 'en-US',
   featuredPostCount: 2,
   postsPerPage: 3,
@@ -28,15 +28,15 @@ export const NAV_LINKS: SocialLink[] = [
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    href: 'https://github.com/jktrn',
+    href: 'https://github.com/jpbiondo',
     label: 'GitHub',
   },
   {
-    href: 'https://twitter.com/enscry',
+    href: 'https://x.com/caaylow',
     label: 'Twitter',
   },
   {
-    href: 'mailto:jason@enscribe.dev',
+    href: 'mailto:jupbiondo@gmail.com',
     label: 'Email',
   },
   {
