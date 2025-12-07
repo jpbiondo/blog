@@ -4,7 +4,7 @@ import type { IconMap, SocialLink, Site } from '@/types'
 export const SITE: Site = {
   title: 'jpblxnd',
   description: 'Johnny The man',
-  href: 'https://astro-erudite.vercel.app',
+  href: 'https://jpbiondo.github.io',
   author: 'jpblxnd',
   locale: 'en-US',
   featuredPostCount: 2,
